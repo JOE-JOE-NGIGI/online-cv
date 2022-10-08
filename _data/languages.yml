@@ -1,6 +1,10 @@
 - language:
-  idiom: Chinese
+  idiom: English
+  level: Professional
+- language:
+  idiom: Swahili
   level: Native
 - language:
-  idiom: English
-  level: Second-language
+  idiom: French
+  level: Basic
+  
