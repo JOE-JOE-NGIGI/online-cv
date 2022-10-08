@@ -1,12 +1,18 @@
 - education:
-  name: <font color="#6e3852">University of Birmingham, UK</font>
-  time: 1/2016-12/2016
-  role: Undergraduate Study Abroad
+  name: <font color="#6e3852">Nelson Mandela African Institution of Science and Technology (NM-AIST), Arusha-Tz</font>
+  time: 1/2021-12/2022
+  role: MSc. Embedded and Mobile Systems
   details: "<b>Highlighted Modules:</b><br>
-  Cancer Biology; Cellular Neurobiology; Machine Learning; Neural Computation;"
+  Embedded Systems Option;"
 - education:
-  name: <font color="#6e3852">Huazhong Agricultural University, China</font>
-  time: 09/2012-06/2016 
-  role: B.S. in Bioengineering 
+  name: <font color="#6e3852">Alison, online</font>
+  time: 04/2019-07/2019
+  role: Diploma in Project Management
+  details: "<b>Highlighted Modules:</b><br>
+  Project Management;"
+- education:
+  name: <font color="#6e3852">The University of Nairobi, Kenya</font>
+  time: 09/2012-09/2016 
+  role: BSc. Microprocessor Technology & Instrumentation 
   details: "<b>Highlighted Modules</b>:<br>
-  Biochemistry; Microbiology; Molecular Biology; Cell Biology;"
+  Telecommunications Option;"
