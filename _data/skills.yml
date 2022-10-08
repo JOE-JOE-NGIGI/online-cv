@@ -1,15 +1,22 @@
 - skill:
-  name: Linux & C & VB
-  level: 95%
+  name: Linux & C 
+  level: 90%
 - skill:
-  name: R & Python & Matlab
-  level: 95%
+  name: PCB Design (KiCad)
+  level: 90% 
 - skill:
-  name: Perl & JAVA
+  name: c++
+  level: 90%
+- skill:
+  name: Python & Matlab
   level: 85%
 - skill:
-  name: Sketch & Photoshop & AI
+  name: Sensors interfacing
+  level: 80%
+- skill:
+  name: Wireless Sensor Networks (XBee)
   level: 80%
 - skill:
   name: HTML5 & CSS & JS
   level: 70%
+
