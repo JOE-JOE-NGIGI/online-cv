@@ -11,8 +11,8 @@ style: styles-4
 #style: styles-6
 
 #Profile information
-name: Qian Zhang
-tagline: undergraduate
+name: Joseph Ngigi Wangere
+tagline: Embedded Systems Engineer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
@@ -20,13 +20,13 @@ commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis d
 montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 #sidebar links
-email: q.zhang.012@gmail.com
-phone: +1 8572052088
-website: qzhang.me #do not add http://
-#linkedin: Qian Zhang
-github: qrzhang
-twitter: '@qianzhangqz'
-wechat: qianzhangqz
+email: jngigiw@gmail.com
+phone: +254725451900
+#website: 
+linkedin: josephngigiwangere
+github: JOE-JOE-NGIGI
+twitter: '@ngigiwangere'
+#wechat: qianzhangqz
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
