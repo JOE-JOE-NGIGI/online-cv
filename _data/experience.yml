@@ -5,14 +5,7 @@
   company: HP Inc. USA
   details: "<b>Technical Lead (Hardware)</b>
   <br> &#10085; Provided technical leadership and mentorship to cross-functional team of developers.
-  #<br> &#10085; Infer treatment for Pancreatic Cancer with organoid culture system<br>
-  #<br>
-  #Collaborated with <b>Dr. David Scadden</b> (Harvard University)
-  #<br> &#10085; Identify fate decision factors responsible for osteosarcoma with single-cell RNA-seq<br>
-  #<br>
-  #Collaborated with <b>Dr. Xiaojie Qiu</b> (HHMI, UCSF)
-  #<br> &#10085; Contribute to a powerful tool to map single-cell manifold via structure learning
-  #<br> &#10085; Apply this new method to hematopoiesis, organoid and other differentiation system
+  
   "
 
 - experience:
@@ -21,11 +14,11 @@
   time: 10/2020 - 01/2021
   company: Nairobi, Kenya
   details: "Project Manager
-  &#10085;Led cross-functional development teams in designing and supporting retail and delivery solutions for Restaurants/shopping stores<br>
-  &#10085;Coordinated scrum and design sprint meetings between clients and development teams<br>
-  &#10085;Interpreted functional requirements to development team<br>
-  &#10085;Tracked milestones, deliverables, and change requests<br>
-  &#10085;communicated details such as changes, milestones reached, and other pertinent information to stakeholders<br>
+  <br> &#10085;Led cross-functional development teams in designing and supporting retail and delivery solutions for Restaurants/shopping stores<br>
+  <br> &#10085;Coordinated scrum and design sprint meetings between clients and development teams<br>
+  <br> &#10085;Interpreted functional requirements to development team<br>
+  <br> &#10085;Tracked milestones, deliverables, and change requests<br>
+  <br> &#10085;communicated details such as changes, milestones reached, and other pertinent information to stakeholders<br>
   
   
   "
@@ -35,13 +28,13 @@
   time: 09/2019 - 09/2020
   company: Nairobi, Kenya
   details: "Hardware Team Lead
-  &#10085;Liaised with stakeholders in initiation of new projects<br>
-  &#10085;Interpreted Customer requirements from the backlog into actionable items for the hardware/firmware development team
-  &#10085;Provided technical mentorship for new members of the Hardware development team
-  &#10085;Led daily scrum meetings for the hardware development team, resolved blockers, and provided weekly status updates to the management
-  &#10085;Validated all design work from concept to production
-  &#10085;Established Product Test plans and procedures
-  &#10085;PCB design and development
+  <br> &#10085;Liaised with stakeholders in initiation of new projects<br>
+  <br> &#10085;Interpreted Customer requirements from the backlog into actionable items for the hardware/firmware development team
+  <br> &#10085;Provided technical mentorship for new members of the Hardware development team
+  <br> &#10085;Led daily scrum meetings for the hardware development team, resolved blockers, and provided weekly status updates to the management
+  <br> &#10085;Validated all design work from concept to production
+  <br> &#10085;Established Product Test plans and procedures
+  <br> &#10085;PCB design and development
   
   "
 - experience:
@@ -50,15 +43,15 @@
   time: 11/2018 - 11/2020
   company: Nairobi, Kenya
   details: "Embedded Systems Developer
-  &#10085;Assembled, tested, validated, and repaired Printed Circuit Boards<br>
-  &#10085;Configured the device tree to support Serial UART, I2C, and SPI interfaces for sensors and Input/Output peripherals
-  &#10085;Linux device driver implementation (WiFi, Bluetooth, Resistive and Capacitive touch panel interface)
-  &#10085;Customized and Cross-compiled Linux kernel modules for chip & pin, NFC PN532, I/O peripherals e.g mouse, keyboard and displays
-  &#10085;Built and maintained an embedded Linux distribution based on Yocto Project / Open embedded, for a custom Allwinner A20 opensource hardware Development Platform
-  &#10085;Debugged and maintained PCBs for payment PoS hardware terminal modules resolving issues ranging from the power supply, firmware, and peripheral devices such as displays and keypads
-  &#10085;Integrated IoT devices to a cloud platform for mobility solutions
-  &#10085;Customized and built U-boot bootloader for custom hardware based on ARM cortex-A processors
-  &#10085;Configured hardware for the implementation and maintenance of vehicle tracking systems for bus companies in major cities in Kenya
+  <br> &#10085;Assembled, tested, validated, and repaired Printed Circuit Boards<br>
+  <br> &#10085;Configured the device tree to support Serial UART, I2C, and SPI interfaces for sensors and Input/Output peripherals
+  <br> &#10085;Linux device driver implementation (WiFi, Bluetooth, Resistive and Capacitive touch panel interface)
+  <br> &#10085;Customized and Cross-compiled Linux kernel modules for chip & pin, NFC PN532, I/O peripherals e.g mouse, keyboard and displays
+  <br> &#10085;Built and maintained an embedded Linux distribution based on Yocto Project / Open embedded, for a custom Allwinner A20 opensource hardware Development Platform
+  <br> &#10085;Debugged and maintained PCBs for payment PoS hardware terminal modules resolving issues ranging from the power supply, firmware, and peripheral devices such as displays and keypads
+  <br> &#10085;Integrated IoT devices to a cloud platform for mobility solutions
+  <br> &#10085;Customized and built U-boot bootloader for custom hardware based on ARM cortex-A processors
+  <br> &#10085;Configured hardware for the implementation and maintenance of vehicle tracking systems for bus companies in major cities in Kenya
   
   
   "
