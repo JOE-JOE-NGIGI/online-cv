@@ -19,4 +19,7 @@
 - skill:
   name: Node-RED
   level: 70%
+- skill:
+  name: Rust
+  level: 50%
 
