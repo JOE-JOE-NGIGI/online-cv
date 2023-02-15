@@ -3,9 +3,13 @@
   link: 
   time: 07/2022 - Present
   company: HP Inc. USA
-  details: "<b>Technical Lead (Hardware)</b>
-  <br> &#10085; Provided technical leadership and mentorship to cross-functional team of developers.
-  
+  details: "<b>Technical Lead (Hardware Enablement Team</b>
+  <br> &#10085; Provided technical leadership and mentorship to cross-functional team of 8 developers and QA Engineers.
+  <br> &#10085; Customized linux kernel and drivers for custom targets
+  <br> &#10085; Led backlog grooming sessions to align with product management team
+  <br> &#10085; Ensured defect-free code releases 
+  <br> &#10085; Led delivery of artifacts at the end of each 2-week sprint. Examples artifacts such as driver module to detect non-standard power supply units
+  <br> &#10085; Prioritized personal development of the engineers into leadership and taking ownership of entire project
   "
 
 - experience:
