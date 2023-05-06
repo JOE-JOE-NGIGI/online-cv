@@ -1,25 +1,25 @@
 - skill:
-  name: Linux & C 
+  name: Linux,C,C++ 
   level: 90%
 - skill:
   name: PCB Design (KiCad)
   level: 90% 
 - skill:
-  name: c++
-  level: 90%
+  name: 3-D modelling and printing (Design Spark Mechanical, Ultimaker Cura)
+  level: 60%
 - skill:
   name: Python & Matlab
-  level: 85%
+  level: 80%
 - skill:
-  name: Sensors interfacing
+  name: Embedded Systems Design
   level: 80%
 - skill:
   name: Wireless Sensor Networks (XBee)
   level: 80%
 - skill:
-  name: Node-RED
-  level: 70%
+  name: Project Management
+  level: 80%
 - skill:
-  name: Rust
+  name: Hardware prototyping and debugging
   level: 50%
 
