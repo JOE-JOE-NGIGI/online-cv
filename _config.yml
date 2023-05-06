@@ -14,9 +14,9 @@ style: styles-6
 name: Joseph Ngigi Wangere
 tagline: Embedded Systems Engineer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: Joseph is an adept Embedded Hardware Engineer keen on Wireless Sensor Networks and the Internet of Things. 
+# summary: 'Joseph is an adept Embedded Hardware Engineer keen on Wireless Sensor Networks and the Internet of Things. 
 His experience spans Industries in FinTech, Smart Mobility, and AgriTech. He is skilled in firmware development for Embedded micro-controllers and provides Technical Leadership to cross-functional Agile teams.
-As a lifelong learner, Joseph is always pursuing challenging opportunities and self-development initiatives to achieve his full career potential.
+As a lifelong learner, Joseph is always pursuing challenging opportunities and self-development initiatives to achieve his full career potential.'
 
 #sidebar links
 email: jngigiw@gmail.com
