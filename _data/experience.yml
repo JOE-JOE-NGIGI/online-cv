@@ -1,15 +1,30 @@
 - experience:
+  lab: <strong><font color="#6e3852" size="3"> Data Integrated Limited, Nairobi Kenya</font></strong>
+  link: 
+  time: 07/2022 - 12/2022
+  company: Data Integrated Limited, Nairobi, Kenya
+  details: "<b>Technical Lead (Hardware Team)</b>
+  <br> &#x2022; In charge of a team of 10 hardware engineers and field technicians
+  <br> &#x2022; Full device life-cycle management for more than 2000 IoT fleet management devices 
+  <br> &#x2022; Providing technical leadership in hardware product design and support
+  <br> &#x2022; Providing leadership, mentorship and cross-training for junior engineers
+  <br> &#x2022; Handling escalated device failures that require advanced debugging and resolution
+  <br> &#x2022; Leading delivery of end-to-end IoT solutions in mobility 
+  <br> &#x2022; Managing complex stakeholder expectations from the business unit, providing timely updates and adhering to release timelines
+  "
+
+- experience:
   lab: <strong><font color="#6e3852" size="3"> HP Inc., United States</font></strong>
   link: 
   time: 07/2022 - 12/2022
   company: HP Inc. USA
-  details: "<b>Technical Lead (Hardware Enablement Team</b>
-  <br> &#x2022; Provided technical leadership and mentorship to cross-functional team of 8 developers and QA Engineers.
-  <br> &#x2022; Customized linux kernel and drivers for custom targets
+  details: "<b>Technical Lead (Hardware Enablement Team)</b>
+  <br> &#x2022; Provided technical leadership and mentorship to a cross-functional team of 8 developers and QA Engineers.
+  <br> &#x2022; Customized Linux kernel and drivers for custom targets
   <br> &#x2022; Led backlog grooming sessions to align with product management team
   <br> &#x2022; Ensured defect-free code releases 
-  <br> &#x2022; Led delivery of artifacts at the end of each 2-week sprint. Examples artifacts such as driver module to detect non-standard power supply units
-  <br> &#x2022; Prioritized personal development of the engineers into leadership and taking ownership of entire project
+  <br> &#x2022; Led the delivery of artefacts at the end of each 2-week sprint. Examples artefacts such as driver modules to detect non-standard power supply units
+  <br> &#x2022; Prioritized personal development of the engineers into leadership and taking ownership of the entire project
   <br> &#x2022; Managed complex stakeholder expectations from the business unit, providing timely updates and adhering to release timelines
   "
 
@@ -19,11 +34,11 @@
   time: 10/2020 - 01/2021
   company: Nairobi, Kenya
   details: "<b>Project Manager </b>
-  <br> &#x2022;Led cross-functional development teams in designing and supporting retail and delivery solutions for Restaurants/shopping stores<br>
-  <br> &#x2022;Coordinated scrum and design sprint meetings between clients and development teams<br>
+  <br> &#x2022; Led cross-functional development teams in designing and supporting retail and delivery solutions for Restaurants/shopping stores<br>
+  <br> &#x2022; Coordinated scrum and design sprint meetings between clients and development teams<br>
   <br> &#x2022;Interpreted functional requirements to development team<br>
   <br> &#x2022;Tracked milestones, deliverables, and change requests<br>
-  <br> &#x2022;communicated details such as changes, milestones reached, and other pertinent information to stakeholders<br>
+  <br> &#x2022; communicated details such as changes, milestones reached, and other pertinent information to stakeholders<br>
   
   
   "
@@ -52,15 +67,15 @@
   time: 11/2018 - 11/2020
   company: Nairobi, Kenya
   details: "<b>Embedded Systems Developer</b>
-  <br> &#x2022;Assembled, tested, validated, and reviewed Printed Circuit Boards
+  <br> &#x2022; Assembled, tested, validated, and reviewed Printed Circuit Boards
   <br> &#x2022;Configured the device tree to support Serial UART, I2C, and SPI interfaces for sensors and Input/Output peripherals
-  <br> &#x2022;Linux device driver implementation (WiFi, Bluetooth, Resistive and Capacitive touch panel interface)
+  <br> &#x2022; Linux device driver implementation (WiFi, Bluetooth, Resistive and Capacitive touch panel interface)
   <br> &#x2022;Customized and Cross-compiled Linux kernel modules for chip & pin, NFC PN532, I/O peripherals e.g mouse, keyboard and displays
-  <br> &#x2022;Built and maintained an embedded Linux distribution based on Yocto Project / Open embedded, for a custom Allwinner A20 opensource hardware Development Platform
-  <br> &#x2022;Debugged and maintained PCBs for payment PoS hardware terminal modules resolving issues ranging from the power supply, firmware, and peripheral devices such as displays and keypads
-  <br> &#x2022;Integrated IoT devices to a cloud platform for mobility solutions
-  <br> &#x2022;Customized and built U-boot bootloader for custom hardware based on ARM cortex-A processors
-  <br> &#x2022;Configured hardware for the implementation and maintenance of vehicle tracking systems for bus companies in major cities in Kenya
+  <br> &#x2022; Built and maintained an embedded Linux distribution based on Yocto Project / Open embedded for a custom Allwinner A20 opensource hardware Development Platform
+  <br> &#x2022; Debugged and maintained PCBs for payment PoS hardware terminal modules, resolving issues ranging from the power supply, firmware, and peripheral devices such as displays and keypads
+  <br> &#x2022; Integrated IoT devices to a cloud platform for mobility solutions
+  <br> &#x2022; Customized and built U-boot bootloader for custom hardware based on ARM cortex-A processors
+  <br> &#x2022; Configured hardware for the implementation and maintenance of vehicle tracking systems for bus companies in major cities in Kenya
   
   
   "
